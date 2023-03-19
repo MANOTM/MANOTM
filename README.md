@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manotm&label=Profile%20views&color=0e75b6&style=flat" alt="manotm" /> </p>
 
-- 👨‍💻 My Portfolio [manotm.tk](manotm.tk)
+- 👨‍💻 My Portfolio <a href="manotm.tk">manotm.tk<a/>
 
-- 📫 How to reach me **otmaneolmansouri1@gmail.com**
-
+- 📫 How to reach me **otmaneolmansouri1@gmail.com**manotm.tk
+>manotm.tk<a/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manotm_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manotm_1" height="30" width="40" /></a>
