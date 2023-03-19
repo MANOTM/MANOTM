@@ -8,7 +8,7 @@
 
 - 👨‍💻 My Portfolio <a href="manotm.tk" target="_blank">manotm.tk<a/>
 
-- 📫 How to reach me **otmaneolmansouri1@gmail.com**manotm.tk
+- 📫 How to reach me **otmaneolmansouri1@gmail.com**
 >manotm.tk<a/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
