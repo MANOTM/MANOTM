@@ -21,7 +21,7 @@
  
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,git,github,js,jquery,css,html,laravel,php,mysql,mongodb,postman,figma,firebase,py,vite" />
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,git,github,js,jquery,css,tailwind,html,laravel,php,mysql,mongodb,postman,figma,firebase,py,vite" />
   </a>
 </p>
   
