@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manotm&label=Profile%20views&color=0e75b6&style=flat" alt="manotm" /> </p>
 
-- 👨‍💻 My Portfolio <a href="https://manotm.vercel.app/" target="_blank">manotm.tk<a/>
+- 👨‍💻 My Portfolio <a href="https://manotm.vercel.app/" target="_blank">https://manotm.vercel.app/<a/>
 
 - 📫 How to reach me **otmaneolmansouri1@gmail.com**
 >manotm.tk<a/>
