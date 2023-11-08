@@ -2,11 +2,11 @@
   <source src="https://cdn.dribbble.com/userupload/3566105/file/original-a1bc78539fea93872a227f35b836f1ad.mp4" type="video/mp4"> 
 </video>
 <h1 align="center">Hi 👋, I'm OTMANE MANSOURI</h1>
-<h3 align="center">A Web developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manotm&label=Profile%20views&color=0e75b6&style=flat" alt="manotm" /> </p>
 
-- 👨‍💻 My Portfolio <a href="manotm.tk" target="_blank">manotm.tk<a/>
+- 👨‍💻 My Portfolio <a href="https://manotm.vercel.app/" target="_blank">manotm.tk<a/>
 
 - 📫 How to reach me **otmaneolmansouri1@gmail.com**
 >manotm.tk<a/>
