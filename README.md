@@ -9,7 +9,7 @@
 - 👨‍💻 My Portfolio <a href="https://manotm.vercel.app/" target="_blank">https://manotm.vercel.app/<a/>
 
 - 📫 How to reach me **otmaneolmansouri1@gmail.com**
->manotm.tk<a/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manotm_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manotm_1" height="30" width="40" /></a>
